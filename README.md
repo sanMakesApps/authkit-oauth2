@@ -4,6 +4,16 @@ This is a simple OAuth2 demo project that integrates **Spring Boot (backend)** a
 
 ---
 
+## 🎥 Demo
+
+### Login + Consent Github 
+![AuthKit Demo 1](./assets/authkitdemo1.gif)
+
+### Login + Consent Google   
+![AuthKit Demo 2](./assets/authkitdemo2.gif)
+
+---
+
 ## 📸 Demo Screenshots
 
 ### OAuth2 Consent Flow Google 
@@ -15,18 +25,8 @@ This is a simple OAuth2 demo project that integrates **Spring Boot (backend)** a
 ### Dashboard  
 ![Dashboard](./assets/Capture1.PNG)
 
----
-
-## 🎥 Demo in Action
-
-### Login + Consent Github 
-![AuthKit Demo 1](./assets/authkitdemo1.gif)
-
-### Login + Consent Google   
-![AuthKit Demo 2](./assets/authkitdemo2.gif)
 
 ---
-
 
 ## 🎯 Goals
 
